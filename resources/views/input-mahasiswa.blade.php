@@ -15,9 +15,6 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav ms-auto mb-2 mb-md-0">
                 <li class="nav-item">
-                    <a class="nav-link" href="{{url('add-blog-post-form')}}" aria-current="page" href="#">Tugas Mahasiswa</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link active" href="{{url('input-mahasiswa')}}">Input Data Mahasiswa</a>
                 </li>
                 <li class="nav-item">
